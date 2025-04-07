@@ -7,7 +7,13 @@ authors = [
     { name = "Kota Yuhara", email = "hotwater1367@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "icalendar>=6.1.3",
+    "pandas>=2.2.3",
+    "python-dateutil>=2.9.0.post0",
+    "pytz>=2025.2",
+    "scrapy>=2.12.0",
+]
 
 [project.scripts]
 mtg-official-event-scraper = "mtg_official_event_scraper:main"
