@@ -1,0 +1,17 @@
+[project]
+name = "mtg-official-event-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Kota Yuhara", email = "hotwater1367@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+mtg-official-event-scraper = "mtg_official_event_scraper:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
