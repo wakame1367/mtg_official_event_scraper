@@ -101,35 +101,16 @@ class MtgEventSpider(scrapy.Spider):
                 logger.debug(f"Event found: {event_data}") # DEBUGレベルで詳細情報を記録
 
         # 次のページへのリンクを探す (前回と同様のロジック)
-        next_page_link = response.css('a.next::attr(href)').get()
-        if not next_page_link:
-            pagination_links = response.css('div.pagination a::text').getall()
-            current_page_active = response.css('div.pagination span.current::text').get()
-            try:
-                 current_page_num = int(current_page_active) if current_page_active else self.page
-            except ValueError:
-                 current_page_num = self.page
-
-            for link_text in pagination_links:
-                 if link_text.isdigit() and int(link_text) > current_page_num:
-                    next_page_num = int(link_text)
-                    base_url_part = response.url.split('?')[0]
-                    query_params = response.url.split('?')[1].split('#')[0] if '?' in response.url else ''
-                    params = dict(p.split('=') for p in query_params.split('&') if '=' in p)
-                    params['page'] = str(next_page_num)
-                    next_page_link = f"{base_url_part}?{urlencode(params)}#searchBlock"
-                    logger.debug(f"Found next page link by pagination number: {next_page_link}")
-                    break
-
-
-        if next_page_link and events_found_on_page:
-            self.page += 1
-            logger.info(f"Following to next page: {next_page_link}")
-            yield response.follow(next_page_link, self.parse)
-        elif not events_found_on_page:
-             logger.info("No events found on this page. Stopping pagination.")
+        next_page_link = response.xpath("//ul[@class='pager-list']//a[span[text()='>']]/@href").get()
+        # 次のページのリンクが見つかった場合、リクエストを生成
+        if next_page_link:
+            # response.follow は相対URL (?p=20&...) を絶対URLに自動で解決
+            logger.info(f"Found next page link: {next_page_link}. Following to page {self.page + 1}")
+            self.page += 1 # ページ番号をインクリメント (ログ表示用など)
+            yield response.follow(next_page_link, callback=self.parse)
         else:
-            logger.info("No next page link found or finished scraping all pages.")
+            # 「>」リンクが見つからない場合は、最後のページである可能性が高い
+            logger.info("No '>' link found in pagination. Assuming it's the last page.")
 
 
     def closed(self, reason):
