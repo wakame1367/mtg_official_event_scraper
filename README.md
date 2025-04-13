@@ -22,20 +22,15 @@ cd mtg_official_event_scraper
 
 ### 2. 依存パッケージのインストール
 
-uvを使用する場合：
+
 ```bash
 uv sync --all-extras --dev
-```
-
-pipを使用する場合：
-```bash
-pip install -e .
 ```
 
 ### 3. スクリプト実行
 
 ```bash
-mtg-official-event-scraper --output-dir output
+uv run mtg-official-event-scraper --output-dir output
 ```
 
 オプションを指定して実行する場合：
