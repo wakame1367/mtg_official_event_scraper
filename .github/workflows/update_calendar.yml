@@ -35,7 +35,7 @@ jobs:
       # https://mtg-jp.com/reading/kochima/0038543/
       - name: Run Scrapy scraper
         run: |
-          mtg-official-event-scraper --output-dir output --log-level INFO --start-date 2025-04-01 --end-date 2025-06-01 --prefecture 13 --keyword PWS
+          uv run mtg-official-event-scraper --output-dir output --log-level INFO --start-date 2025-04-01 --end-date 2025-06-01 --prefecture 13 --keyword PWS
           cp output/mtg_events.csv output/mtg_events_latest.csv
 
       - name: Create index.html for GitHub Pages
