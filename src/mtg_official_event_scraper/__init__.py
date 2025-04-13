@@ -60,17 +60,49 @@ class MtgEventSpider(scrapy.Spider):
         event_rows = response.css('table tr')
 
         events_found_on_page = False
-        for row in event_rows:
-            date_cell_text = row.css('.td-date ::text').get()
-            if not date_cell_text:
-                continue
+        for i, row in enumerate(event_rows):
+            date_cell_text_list = row.css('.td-date ::text').getall()
+            # デバッグ用に取得したリストを出力
+            logger.debug(f"Row {i+1}: Raw date_cell_text_list from .td-date: {date_cell_text_list}")
 
+            date_text = "" # 日付用テキスト初期化
+            time_text = "" # 時間用テキスト初期化
+
+            # リストの最初の要素を日付テキストとして試す
+            if date_cell_text_list:
+                date_text = date_cell_text_list[0].strip()
+
+            # リストに2つ以上の要素があれば、2番目の要素を時間テキストとして試す
+            if len(date_cell_text_list) > 1:
+                time_text = date_cell_text_list[1].strip()
+
+            # 1. 日付の抽出と整形
+            date_str = "" # 抽出後の日付文字列初期化
+            if date_text: # 日付テキストが存在する場合のみ処理
+                date_match = re.search(r'(\d{4}\.\d{1,2}\.\d{1,2})', date_text)
+                if date_match:
+                    date_str = date_match.group(1).replace('.', '/') # YYYY/MM/DD 形式に変換
+                    logger.debug(f"Row {i+1}: Date matched: {date_str} from text '{date_text}'")
+                else:
+                    logger.warning(f"Row {i+1}: Date pattern not found in extracted date_text: '{date_text}'")
+            else:
+                logger.warning(f"Row {i+1}: No date text could be extracted from list: {date_cell_text_list}")
+
+            # 2. 時間の抽出
+            time_str = "00:00" # デフォルト値で初期化
+            if time_text: # 時間テキストが存在する場合のみ処理
+                # 時間形式 (HH:MM) を探す。「～」の有無は問わない
+                time_match = re.search(r'(\d{1,2}:\d{2})', time_text)
+                if time_match:
+                    time_str = time_match.group(1)
+                    logger.debug(f"Row {i+1}: Time matched: {time_str} from text '{time_text}'")
+                else:
+                    # 時間が見つからない場合もデフォルト値を使うが、警告は出す
+                    logger.warning(f"Row {i+1}: Time pattern not found in extracted time_text: '{time_text}'. Using default '{time_str}'.")
+            else:
+                 # 時間テキスト自体がなかった場合（リストの要素が1つだった場合など）
+                 logger.warning(f"Row {i+1}: No time text could be extracted. Using default '{time_str}'. List was: {date_cell_text_list}")
             events_found_on_page = True
-            date_match = re.search(r'(\d{4}\.\d{1,2}\.\d{1,2})', date_cell_text)
-            time_match = re.search(r'(\d{1,2}:\d{2})～', date_cell_text)
-
-            date_str = date_match.group(1).replace('.', '/') if date_match else ""
-            time_str = time_match.group(1) if time_match else "00:00"
 
             location = row.css('.td-prefecture ::text').get(default="").strip()
             title = row.css('.td-info dt:first-child ::text').get(default="").strip()
