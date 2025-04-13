@@ -1,0 +1,82 @@
+name: Update MTG Events Calendar
+
+on:
+  # 毎日午前3時 (JST: UTC+9 なので前日18時 UTC) に定期実行
+  schedule:
+    - cron: '0 18 * * *'
+  # 手動実行も可能にする
+  workflow_dispatch:
+  # mainブランチにプッシュされた時にも実行 (開発・テスト用、不要なら削除)
+  push:
+    branches:
+      - main
+
+jobs:
+  scrape_and_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # リポジトリへの書き込み権限 (gh-pagesブランチ作成・更新のため)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: 'pyproject.toml'
+
+      - name: Install the project
+        run: uv sync --all-extras --dev
+
+      # https://mtg-jp.com/reading/kochima/0038543/
+      - name: Run Scrapy scraper
+        run: |
+          mtg-official-event-scraper --output-dir output --log-level INFO --start-date 2025-04-01 --end-date 2025-06-01 --prefecture 13 --keyword PWS
+          cp output/mtg_events.csv output/mtg_events_latest.csv
+
+      - name: Create index.html for GitHub Pages
+        run: |
+          mkdir -p output # output ディレクトリがなければ作成
+          # 簡単な案内ページを作成
+          cat <<EOL > output/index.html
+          <!DOCTYPE html>
+          <html lang="ja">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>MTGイベントカレンダー</title>
+              <style>
+                  body { font-family: sans-serif; line-height: 1.6; padding: 2em; }
+                  a { color: #007bff; }
+                  code { background-color: #f8f9fa; padding: 0.2em 0.4em; border-radius: 3px; }
+              </style>
+          </head>
+          <body>
+              <h1>MTGイベントカレンダー (非公式)</h1>
+              <p>これは、<a href="https://mtg-jp.com/events/" target="_blank" rel="noopener noreferrer">マジック：ザ・ギャザリング日本公式ウェブサイト</a>のイベント情報を基に作成された非公式のカレンダーです。</p>
+              <p>以下のURLをコピーし、お使いのカレンダーアプリ（Googleカレンダー、Outlookカレンダー、iPhone/Macカレンダーなど）で「URLでカレンダーを追加」または「照会」機能を使って購読してください。カレンダーは定期的に自動更新されます。</p>
+              <p><strong>カレンダーURL (ICS形式):</strong></p>
+              <p><a href="./mtg_events.ics">./mtg_events.ics</a></p>
+              <p><code>${{ github.server_url }}/${{ github.repository }}/raw/gh-pages/mtg_events.ics</code></p>
+              <p><small>（上記のURLを直接コピーしてご利用ください。環境によっては相対パスリンクが機能しない場合があります。）</small></p>
+              <hr>
+              <p><small>最終更新日時: $(date -u +"%Y-%m-%d %H:%M:%S UTC")</small></p>
+              <p><small>このページは <a href="https://github.com/${{ github.repository }}" target="_blank" rel="noopener noreferrer">GitHubリポジトリ</a> の情報に基づき自動生成されています。</small></p>
+          </body>
+          </html>
+          EOL
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # デプロイするブランチ (gh-pages が一般的)
+          publish_branch: gh-pages
+          # Scrapyが出力し、index.html を作成したディレクトリ
+          publish_dir: ./output
+          # コミットメッセージ
+          commit_message: 'docs: Auto-update MTG events calendar [skip ci]'
