@@ -16,7 +16,7 @@
 ### 1. リポジトリのクローン
 
 ```bash
-git clone https://github.com/yourusername/mtg_official_event_scraper.git
+git clone https://github.com/wakame1367/mtg_official_event_scraper.git
 cd mtg_official_event_scraper
 ```
 
@@ -35,7 +35,7 @@ uv run mtg-official-event-scraper --output-dir output
 
 オプションを指定して実行する場合：
 ```bash
-mtg-official-event-scraper \
+uv run mtg-official-event-scraper \
     --output-dir output \
     --start-date 2025-04-01 \
     --end-date 2025-06-01 \
@@ -93,7 +93,7 @@ GitHub Actionsによって自動デプロイされたページの使い方は以
 3. 「URLで追加」を選択
 4. 以下のURLを入力:
    ```
-   https://yourusername.github.io/mtg_official_event_scraper/mtg_events.ics
+   https://wakame1367.github.io/mtg_official_event_scraper/mtg_events.ics
    ```
 5. 「カレンダーを追加」をクリック
 
@@ -108,7 +108,7 @@ GitHub Actionsによって自動デプロイされたページの使い方は以
 表計算ソフトでイベント情報を分析したい場合は、以下のURLからCSVファイルを直接ダウンロードできます：
 
 ```
-https://yourusername.github.io/mtg_official_event_scraper/mtg_events.csv
+https://wakame1367.github.io/mtg_official_event_scraper/mtg_events.csv
 ```
 
 ### 注意事項
