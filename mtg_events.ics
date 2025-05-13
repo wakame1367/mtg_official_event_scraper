@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ 秋葉原あずまや
-DTSTART;TZID=Asia/Tokyo:20250513T190000
-DTEND;TZID=Asia/Tokyo:20250513T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
- 原あずまや\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:秋葉原あずまや (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ TCG専門店ARCANA
-DTSTART;TZID=Asia/Tokyo:20250513T193000
-DTEND;TZID=Asia/Tokyo:20250513T223000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
- 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
- ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
- -01&endDate=2025-06-01#searchBlock)
-LOCATION:TCG専門店ARCANA (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
 DTSTART;TZID=Asia/Tokyo:20250514T190000
 DTEND;TZID=Asia/Tokyo:20250514T220000
@@ -42,7 +22,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: Card Pot
 LOCATION:Card Pot (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみ カジュアル PWS @ BIG MAGIC
+ 秋葉原店
 DTSTART;TZID=Asia/Tokyo:20250516T170000
 DTEND;TZID=Asia/Tokyo:20250516T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -412,7 +393,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
 LOCATION:MINTGAMES池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250523T170000
 DTEND;TZID=Asia/Tokyo:20250523T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -782,7 +764,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
 LOCATION:MINTGAMES池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250530T170000
 DTEND;TZID=Asia/Tokyo:20250530T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -1065,7 +1048,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
 LOCATION:MINTGAMES池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250606T170000
 DTEND;TZID=Asia/Tokyo:20250606T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -1218,7 +1202,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
 LOCATION:MINTGAMES池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250613T170000
 DTEND;TZID=Asia/Tokyo:20250613T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -1431,7 +1416,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
 LOCATION:MINTGAMES池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250620T170000
 DTEND;TZID=Asia/Tokyo:20250620T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -1698,7 +1684,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店CANTRIP (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250704T170000
 DTEND;TZID=Asia/Tokyo:20250704T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
@@ -1708,7 +1695,8 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
 LOCATION:BIG MAGIC秋葉原店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
+ 葉原店
 DTSTART;TZID=Asia/Tokyo:20250711T170000
 DTEND;TZID=Asia/Tokyo:20250711T200000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
