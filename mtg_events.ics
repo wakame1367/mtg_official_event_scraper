@@ -2,26 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
-DTSTART;TZID=Asia/Tokyo:20250514T190000
-DTEND;TZID=Asia/Tokyo:20250514T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
- GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:競技 PWS @ Card Pot
-DTSTART;TZID=Asia/Tokyo:20250514T190000
-DTEND;TZID=Asia/Tokyo:20250514T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: Card Pot
- \n開催地: 東京都\nMTG-JP イベント情報より (https://mtg-jp.co
- m/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&endDate=
- 2025-06-01#searchBlock)
-LOCATION:Card Pot (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:予約不可\,当日抽選のみ カジュアル PWS @ BIG MAGIC
  秋葉原店
 DTSTART;TZID=Asia/Tokyo:20250516T170000
@@ -1038,16 +1018,6 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム秋葉原店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:競技 PWS @ MINTGAMES池袋店
-DTSTART;TZID=Asia/Tokyo:20250606T140000
-DTEND;TZID=Asia/Tokyo:20250606T170000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
- S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
- /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
- 1&endDate=2025-06-01#searchBlock)
-LOCATION:MINTGAMES池袋店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:予約不可\,当日抽選のみカジュアル PWS @ BIG MAGIC秋
  葉原店
 DTSTART;TZID=Asia/Tokyo:20250606T170000
@@ -1057,6 +1027,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
  s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
  4-01&endDate=2025-06-01#searchBlock)
 LOCATION:BIG MAGIC秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:競技 PWS @ MINTGAMES池袋店
+DTSTART;TZID=Asia/Tokyo:20250606T180000
+DTEND;TZID=Asia/Tokyo:20250606T210000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
+ S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
+ /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
+ 1&endDate=2025-06-01#searchBlock)
+LOCATION:MINTGAMES池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ ゲームショップ武蔵
@@ -1160,16 +1140,6 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
  tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
  -04-01&endDate=2025-06-01#searchBlock)
 LOCATION:秋葉原あずまや (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
-DTSTART;TZID=Asia/Tokyo:20250611T190000
-DTEND;TZID=Asia/Tokyo:20250611T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
- GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
