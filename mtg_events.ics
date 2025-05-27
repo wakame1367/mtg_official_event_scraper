@@ -1025,4 +1025,34 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
  S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:イエローサブマリン新宿店 (東京都)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TSUTAYATradingCard錦糸町店
+DTSTART;TZID=Asia/Tokyo:20250808T183000
+DTEND;TZID=Asia/Tokyo:20250808T213000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYAT
+ radingCard錦糸町店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TSUTAYATradingCard錦糸町店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TSUTAYATradingCard錦糸町店
+DTSTART;TZID=Asia/Tokyo:20250808T183000
+DTEND;TZID=Asia/Tokyo:20250808T213000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYAT
+ radingCard錦糸町店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TSUTAYATradingCard錦糸町店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TSUTAYATradingCard錦糸町店
+DTSTART;TZID=Asia/Tokyo:20250822T183000
+DTEND;TZID=Asia/Tokyo:20250822T213000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYAT
+ radingCard錦糸町店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TSUTAYATradingCard錦糸町店 (東京都)
+END:VEVENT
 END:VCALENDAR
