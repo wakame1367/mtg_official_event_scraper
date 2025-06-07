@@ -2,59 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ ゲームショップ武蔵
-DTSTART;TZID=Asia/Tokyo:20250607T133000
-DTEND;TZID=Asia/Tokyo:20250607T163000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
- ムショップ武蔵\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:ゲームショップ武蔵 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
- ★ミント
-DTSTART;TZID=Asia/Tokyo:20250607T140000
-DTEND;TZID=Asia/Tokyo:20250607T170000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
- ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
- G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
- ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
- )
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ イエローサブマリン立川店
-DTSTART;TZID=Asia/Tokyo:20250607T160000
-DTEND;TZID=Asia/Tokyo:20250607T190000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
- ローサブマリン立川店\n開催地: 東京都\nMTG-JP イベント
- 情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PW
- S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:イエローサブマリン立川店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:フルコンプ PLAYERS CENTER 八王子本店　カジュアル P
- WS @ フルコンプ八王子店
-DTSTART;TZID=Asia/Tokyo:20250607T170000
-DTEND;TZID=Asia/Tokyo:20250607T200000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
- コンプ八王子店\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:フルコンプ八王子店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ アメニティードリーム蒲田店
-DTSTART;TZID=Asia/Tokyo:20250607T180000
-DTEND;TZID=Asia/Tokyo:20250607T210000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
- ニティードリーム蒲田店\n開催地: 東京都\nMTG-JP イベン
- ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
- =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:アメニティードリーム蒲田店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
 DTSTART;TZID=Asia/Tokyo:20250608T170000
 DTEND;TZID=Asia/Tokyo:20250608T200000
@@ -699,6 +646,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店CANTRIP (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250723T190000
+DTEND;TZID=Asia/Tokyo:20250723T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20250723T190000
 DTEND;TZID=Asia/Tokyo:20250723T220000
@@ -729,6 +686,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店CANTRIP (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250724T190000
+DTEND;TZID=Asia/Tokyo:20250724T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TSUTAYATradingCard錦糸町店
 DTSTART;TZID=Asia/Tokyo:20250725T183000
 DTEND;TZID=Asia/Tokyo:20250725T213000
@@ -737,6 +704,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYAT
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:TSUTAYATradingCard錦糸町店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250725T190000
+DTEND;TZID=Asia/Tokyo:20250725T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ CARDGYM石神井公園駅前店
@@ -777,6 +754,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
  s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
  4-01&endDate=2025-06-01#searchBlock)
 LOCATION:TCG専門店CANTRIP (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250801T190000
+DTEND;TZID=Asia/Tokyo:20250801T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ CARDGYM石神井公園駅前店
@@ -849,6 +836,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYAT
 LOCATION:TSUTAYATradingCard錦糸町店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250808T190000
+DTEND;TZID=Asia/Tokyo:20250808T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ CARDGYM石神井公園駅前店
 DTSTART;TZID=Asia/Tokyo:20250808T210000
 DTEND;TZID=Asia/Tokyo:20250809T000000
@@ -887,6 +884,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
  s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
  4-01&endDate=2025-06-01#searchBlock)
 LOCATION:TCG専門店CANTRIP (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250815T190000
+DTEND;TZID=Asia/Tokyo:20250815T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ CARDGYM石神井公園駅前店
@@ -1037,5 +1044,25 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
  s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
  4-01&endDate=2025-06-01#searchBlock)
 LOCATION:TCG専門店CANTRIP (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
+DTSTART;TZID=Asia/Tokyo:20250905T190000
+DTEND;TZID=Asia/Tokyo:20250905T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
+ クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20250905T210000
+DTEND;TZID=Asia/Tokyo:20250906T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
 END:VEVENT
 END:VCALENDAR
