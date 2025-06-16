@@ -615,6 +615,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームショップとど (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250728T193000
+DTEND;TZID=Asia/Tokyo:20250728T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20250730T190000
 DTEND;TZID=Asia/Tokyo:20250730T220000
@@ -735,6 +745,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム新宿店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250803T130000
+DTEND;TZID=Asia/Tokyo:20250803T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ 遊Vic中野店
 DTSTART;TZID=Asia/Tokyo:20250803T160000
 DTEND;TZID=Asia/Tokyo:20250803T190000
@@ -765,6 +785,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
  &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250804T193000
+DTEND;TZID=Asia/Tokyo:20250804T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
@@ -917,6 +947,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームショップとど (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250810T130000
+DTEND;TZID=Asia/Tokyo:20250810T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250810T130000
+DTEND;TZID=Asia/Tokyo:20250810T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ 遊Vic中野店
 DTSTART;TZID=Asia/Tokyo:20250810T160000
 DTEND;TZID=Asia/Tokyo:20250810T190000
@@ -925,6 +975,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 遊Vic
  mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
  &endDate=2025-06-01#searchBlock)
 LOCATION:遊Vic中野店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250810T160000
+DTEND;TZID=Asia/Tokyo:20250810T190000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ 晴れる屋トーナメントセンター
@@ -936,6 +996,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
  &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250811T193000
+DTEND;TZID=Asia/Tokyo:20250811T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
@@ -1058,6 +1128,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームショップとど (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250817T130000
+DTEND;TZID=Asia/Tokyo:20250817T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250817T130000
+DTEND;TZID=Asia/Tokyo:20250817T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ 遊Vic中野店
 DTSTART;TZID=Asia/Tokyo:20250817T160000
 DTEND;TZID=Asia/Tokyo:20250817T190000
@@ -1077,6 +1167,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
  &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250818T193000
+DTEND;TZID=Asia/Tokyo:20250818T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
@@ -1189,6 +1289,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームショップとど (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250824T130000
+DTEND;TZID=Asia/Tokyo:20250824T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250824T130000
+DTEND;TZID=Asia/Tokyo:20250824T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ 遊Vic中野店
 DTSTART;TZID=Asia/Tokyo:20250824T160000
 DTEND;TZID=Asia/Tokyo:20250824T190000
@@ -1208,6 +1328,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
  &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250825T193000
+DTEND;TZID=Asia/Tokyo:20250825T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
@@ -1300,6 +1430,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームショップとど (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250831T130000
+DTEND;TZID=Asia/Tokyo:20250831T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250831T130000
+DTEND;TZID=Asia/Tokyo:20250831T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ 遊Vic中野店
 DTSTART;TZID=Asia/Tokyo:20250831T160000
 DTEND;TZID=Asia/Tokyo:20250831T190000
@@ -1319,6 +1469,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
  &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250901T193000
+DTEND;TZID=Asia/Tokyo:20250901T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
@@ -1369,6 +1529,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
  /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
  1&endDate=2025-06-01#searchBlock)
 LOCATION:MINTGAMES池袋店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TSUTAYATradingCard錦糸町店
+DTSTART;TZID=Asia/Tokyo:20250905T183000
+DTEND;TZID=Asia/Tokyo:20250905T213000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYAT
+ radingCard錦糸町店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TSUTAYATradingCard錦糸町店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
@@ -1461,6 +1631,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム新宿店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250907T130000
+DTEND;TZID=Asia/Tokyo:20250907T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250907T130000
+DTEND;TZID=Asia/Tokyo:20250907T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ 遊Vic中野店
 DTSTART;TZID=Asia/Tokyo:20250907T160000
 DTEND;TZID=Asia/Tokyo:20250907T190000
@@ -1469,6 +1659,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 遊Vic
  mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
  &endDate=2025-06-01#searchBlock)
 LOCATION:遊Vic中野店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250908T193000
+DTEND;TZID=Asia/Tokyo:20250908T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
@@ -1579,5 +1779,65 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: Fの集
  -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
  dDate=2025-06-01#searchBlock)
 LOCATION:Fの集会場 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:競技 PWS @ 晴れる屋トーナメントセンター東京
+DTSTART;TZID=Asia/Tokyo:20250914T120000
+DTEND;TZID=Asia/Tokyo:20250914T150000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
+ る屋トーナメントセンター東京\n開催地: 東京都\nMTG-JP 
+ イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
+ &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ゲームショップとど
+DTSTART;TZID=Asia/Tokyo:20250914T120000
+DTEND;TZID=Asia/Tokyo:20250914T150000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
+ ムショップとど\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ゲームショップとど (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250914T130000
+DTEND;TZID=Asia/Tokyo:20250914T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINT GAMES MTG
+DTSTART;TZID=Asia/Tokyo:20250914T130000
+DTEND;TZID=Asia/Tokyo:20250914T160000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINT GAM
+ ES MTG\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg
+ -jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&en
+ dDate=2025-06-01#searchBlock)
+LOCATION:MINT GAMES MTG (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:競技 PWS @ 遊Vic中野店
+DTSTART;TZID=Asia/Tokyo:20250914T160000
+DTEND;TZID=Asia/Tokyo:20250914T190000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: 遊Vic
+ 中野店\n開催地: 東京都\nMTG-JP イベント情報より (https://
+ mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
+ &endDate=2025-06-01#searchBlock)
+LOCATION:遊Vic中野店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ アメニティードリーム町田店
+DTSTART;TZID=Asia/Tokyo:20250914T160000
+DTEND;TZID=Asia/Tokyo:20250914T190000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
+ ニティードリーム町田店\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:アメニティードリーム町田店 (東京都)
 END:VEVENT
 END:VCALENDAR
