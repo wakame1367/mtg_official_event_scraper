@@ -3497,4 +3497,14 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋秋葉原店 (東京都)
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCG専門店ARCANA
+DTSTART;TZID=Asia/Tokyo:20250922T193000
+DTEND;TZID=Asia/Tokyo:20250922T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
+ 門店ARCANA\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:TCG専門店ARCANA (東京都)
+END:VEVENT
 END:VCALENDAR
