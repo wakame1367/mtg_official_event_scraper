@@ -2611,6 +2611,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム立川店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ フルコンプ八王子店
+DTSTART;TZID=Asia/Tokyo:20250906T150000
+DTEND;TZID=Asia/Tokyo:20250906T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
+ コンプ八王子店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
  ★ミント
 DTSTART;TZID=Asia/Tokyo:20250906T150000
@@ -2995,6 +3005,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム立川店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ フルコンプ八王子店
+DTSTART;TZID=Asia/Tokyo:20250913T150000
+DTEND;TZID=Asia/Tokyo:20250913T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
+ コンプ八王子店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
  ★ミント
 DTSTART;TZID=Asia/Tokyo:20250913T150000
@@ -3320,6 +3340,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームショップ武蔵 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ フルコンプ八王子店
+DTSTART;TZID=Asia/Tokyo:20250920T150000
+DTEND;TZID=Asia/Tokyo:20250920T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
+ コンプ八王子店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
  ★ミント
 DTSTART;TZID=Asia/Tokyo:20250920T150000
@@ -3581,6 +3611,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:ゲームショップ武蔵 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ フルコンプ八王子店
+DTSTART;TZID=Asia/Tokyo:20250927T150000
+DTEND;TZID=Asia/Tokyo:20250927T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
+ コンプ八王子店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:フルコンプ八王子店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン立川店
