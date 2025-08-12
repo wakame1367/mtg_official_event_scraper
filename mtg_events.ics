@@ -2,16 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ 秋葉原あずまや
-DTSTART;TZID=Asia/Tokyo:20250812T190000
-DTEND;TZID=Asia/Tokyo:20250812T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
- 原あずまや\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:秋葉原あずまや (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ アメニティードリーム秋葉原店
 DTSTART;TZID=Asia/Tokyo:20250813T190000
 DTEND;TZID=Asia/Tokyo:20250813T220000
@@ -1351,16 +1341,6 @@ LOCATION:イエローサブマリン池袋ゲームショップ (東京都
  )
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20250906T130000
-DTEND;TZID=Asia/Tokyo:20250906T160000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
- る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
- (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
- 025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ アメニティードリーム立川店
 DTSTART;TZID=Asia/Tokyo:20250906T130000
 DTEND;TZID=Asia/Tokyo:20250906T160000
@@ -1518,7 +1498,7 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム町田店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:競技 PWS @ 晴れる屋吉祥寺店
+SUMMARY:カジュアル PWS @ 晴れる屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20250907T130000
 DTEND;TZID=Asia/Tokyo:20250907T160000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
