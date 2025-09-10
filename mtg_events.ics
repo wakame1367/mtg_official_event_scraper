@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ 東京MTG
-DTSTART;TZID=Asia/Tokyo:20250910T190000
-DTEND;TZID=Asia/Tokyo:20250910T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 東京MT
- G\n開催地: 東京都\nMTG-JP イベント情報より (https://mtg-jp.c
- om/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&endDate
- =2025-06-01#searchBlock)
-LOCATION:東京MTG (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ アメニティードリーム秋葉原店
-DTSTART;TZID=Asia/Tokyo:20250910T190000
-DTEND;TZID=Asia/Tokyo:20250910T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
- ニティードリーム秋葉原店\n開催地: 東京都\nMTG-JP イベ
- ント情報より (https://mtg-jp.com/events/search/format/?pref=13&freew
- ord=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:アメニティードリーム秋葉原店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
-DTSTART;TZID=Asia/Tokyo:20250910T190000
-DTEND;TZID=Asia/Tokyo:20250910T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
- GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
-DTSTART;TZID=Asia/Tokyo:20250910T190000
-DTEND;TZID=Asia/Tokyo:20250910T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
- ローサブマリン新宿店\n開催地: 東京都\nMTG-JP イベント
- 情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PW
- S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:イエローサブマリン新宿店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:競技 PWS @ Card Pot
-DTSTART;TZID=Asia/Tokyo:20250910T190000
-DTEND;TZID=Asia/Tokyo:20250910T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: Card Pot
- \n開催地: 東京都\nMTG-JP イベント情報より (https://mtg-jp.co
- m/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&endDate=
- 2025-06-01#searchBlock)
-LOCATION:Card Pot (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ カードラッシュ秋葉原0号店TC
 DTSTART;TZID=Asia/Tokyo:20250911T190000
 DTEND;TZID=Asia/Tokyo:20250911T220000
@@ -965,6 +915,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251001T190000
+DTEND;TZID=Asia/Tokyo:20251001T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20251001T190000
 DTEND;TZID=Asia/Tokyo:20251001T220000
@@ -993,6 +953,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
  より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
  tDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:ゲームバーグリュック (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251003T170000
+DTEND;TZID=Asia/Tokyo:20251003T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
@@ -1065,6 +1035,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
 LOCATION:フルコンプ八王子店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251004T150000
+DTEND;TZID=Asia/Tokyo:20251004T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
 DTSTART;TZID=Asia/Tokyo:20251004T180000
 DTEND;TZID=Asia/Tokyo:20251004T210000
@@ -1128,6 +1110,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251008T190000
+DTEND;TZID=Asia/Tokyo:20251008T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20251008T190000
 DTEND;TZID=Asia/Tokyo:20251008T220000
@@ -1166,6 +1158,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
  ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
  =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:カードラッシュ秋葉原0号店TC (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251010T170000
+DTEND;TZID=Asia/Tokyo:20251010T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
@@ -1236,6 +1238,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251011T150000
+DTEND;TZID=Asia/Tokyo:20251011T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
@@ -1311,6 +1325,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251015T190000
+DTEND;TZID=Asia/Tokyo:20251015T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20251015T190000
 DTEND;TZID=Asia/Tokyo:20251015T220000
@@ -1351,6 +1375,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店CANTRIP (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251017T170000
+DTEND;TZID=Asia/Tokyo:20251017T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ MINTGAMES池袋店
 DTSTART;TZID=Asia/Tokyo:20251017T180000
 DTEND;TZID=Asia/Tokyo:20251017T210000
@@ -1389,6 +1423,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251018T150000
+DTEND;TZID=Asia/Tokyo:20251018T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
@@ -1481,6 +1527,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店CANTRIP (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251024T170000
+DTEND;TZID=Asia/Tokyo:20251024T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ MINTGAMES池袋店
 DTSTART;TZID=Asia/Tokyo:20251024T180000
 DTEND;TZID=Asia/Tokyo:20251024T210000
@@ -1509,6 +1565,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251025T150000
+DTEND;TZID=Asia/Tokyo:20251025T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
@@ -1552,6 +1620,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: スポ
  01#searchBlock)
 LOCATION:スポーツカード＆カードゲームショップMINT吉祥
  寺店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251026T143000
+DTEND;TZID=Asia/Tokyo:20251026T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ Fの集会場
@@ -1624,6 +1702,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店CANTRIP (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251031T170000
+DTEND;TZID=Asia/Tokyo:20251031T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ MINTGAMES池袋店
 DTSTART;TZID=Asia/Tokyo:20251031T180000
 DTEND;TZID=Asia/Tokyo:20251031T210000
@@ -1652,6 +1740,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251101T150000
+DTEND;TZID=Asia/Tokyo:20251101T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ カードショップサトPin
@@ -1695,6 +1795,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:ゲームショップとど (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251102T143000
+DTEND;TZID=Asia/Tokyo:20251102T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ カードショップサトPin
@@ -1747,6 +1857,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251105T190000
+DTEND;TZID=Asia/Tokyo:20251105T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ Card Pot
 DTSTART;TZID=Asia/Tokyo:20251105T190000
 DTEND;TZID=Asia/Tokyo:20251105T220000
@@ -1775,6 +1895,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
  s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
  4-01&endDate=2025-06-01#searchBlock)
 LOCATION:TCG専門店CANTRIP (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251107T170000
+DTEND;TZID=Asia/Tokyo:20251107T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ MINTGAMES池袋店
@@ -1815,6 +1945,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251108T150000
+DTEND;TZID=Asia/Tokyo:20251108T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ カードショップサトPin
@@ -1890,6 +2032,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム立川店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251109T143000
+DTEND;TZID=Asia/Tokyo:20251109T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ Fの集会場
 DTSTART;TZID=Asia/Tokyo:20251109T150000
 DTEND;TZID=Asia/Tokyo:20251109T180000
@@ -1940,6 +2092,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251112T190000
+DTEND;TZID=Asia/Tokyo:20251112T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ Card Pot
 DTSTART;TZID=Asia/Tokyo:20251112T190000
 DTEND;TZID=Asia/Tokyo:20251112T220000
@@ -1980,6 +2142,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
 LOCATION:カードラッシュ秋葉原0号店TC (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251114T170000
+DTEND;TZID=Asia/Tokyo:20251114T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
 DTSTART;TZID=Asia/Tokyo:20251114T190000
 DTEND;TZID=Asia/Tokyo:20251114T220000
@@ -2000,6 +2172,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
 LOCATION:フルコンプ八王子店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251115T150000
+DTEND;TZID=Asia/Tokyo:20251115T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
 DTSTART;TZID=Asia/Tokyo:20251115T190000
 DTEND;TZID=Asia/Tokyo:20251115T220000
@@ -2018,6 +2202,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:ゲームショップとど (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251116T143000
+DTEND;TZID=Asia/Tokyo:20251116T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ Fの集会場
@@ -2050,6 +2244,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
 LOCATION:TCG専門店ARCANA (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251119T190000
+DTEND;TZID=Asia/Tokyo:20251119T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ Card Pot
 DTSTART;TZID=Asia/Tokyo:20251119T190000
 DTEND;TZID=Asia/Tokyo:20251119T220000
@@ -2058,6 +2262,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: Card Pot
  m/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&endDate=
  2025-06-01#searchBlock)
 LOCATION:Card Pot (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251121T170000
+DTEND;TZID=Asia/Tokyo:20251121T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ MINTGAMES池袋店
@@ -2100,6 +2314,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
 LOCATION:フルコンプ八王子店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251122T150000
+DTEND;TZID=Asia/Tokyo:20251122T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
 DTSTART;TZID=Asia/Tokyo:20251122T190000
 DTEND;TZID=Asia/Tokyo:20251122T220000
@@ -2134,6 +2360,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: スポ
  01#searchBlock)
 LOCATION:スポーツカード＆カードゲームショップMINT吉祥
  寺店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251123T143000
+DTEND;TZID=Asia/Tokyo:20251123T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ Fの集会場
@@ -2176,6 +2412,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームバーグリュック (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ BIG MAGIC秋葉原店
+DTSTART;TZID=Asia/Tokyo:20251128T170000
+DTEND;TZID=Asia/Tokyo:20251128T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
+ C秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より (http
+ s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
+ 4-01&endDate=2025-06-01#searchBlock)
+LOCATION:BIG MAGIC秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ MINTGAMES池袋店
 DTSTART;TZID=Asia/Tokyo:20251128T180000
 DTEND;TZID=Asia/Tokyo:20251128T210000
@@ -2214,6 +2460,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20251129T150000
+DTEND;TZID=Asia/Tokyo:20251129T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ LUNLUN
@@ -2292,6 +2550,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: BIG MAGI
 LOCATION:BIG MAGIC池袋店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251130T143000
+DTEND;TZID=Asia/Tokyo:20251130T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ Fの集会場
 DTSTART;TZID=Asia/Tokyo:20251130T150000
 DTEND;TZID=Asia/Tokyo:20251130T180000
@@ -2330,6 +2598,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
  ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
  -01&endDate=2025-06-01#searchBlock)
 LOCATION:TCG専門店ARCANA (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
+DTSTART;TZID=Asia/Tokyo:20251203T190000
+DTEND;TZID=Asia/Tokyo:20251203T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
+ GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ ゲームバーグリュック
@@ -2460,6 +2738,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
  より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
  tDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:カードショップおうち (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ENNDALGAMES調布店
+DTSTART;TZID=Asia/Tokyo:20251207T143000
+DTEND;TZID=Asia/Tokyo:20251207T173000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
+ MES調布店\n開催地: 東京都\nMTG-JP イベント情報より (https
+ ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
+ -01&endDate=2025-06-01#searchBlock)
+LOCATION:ENNDALGAMES調布店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:競技 PWS @ Fの集会場
