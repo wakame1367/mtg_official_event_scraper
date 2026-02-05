@@ -1069,16 +1069,6 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
 LOCATION:アメニティードリーム蒲田店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ 晴れる屋秋葉原店
-DTSTART;TZID=Asia/Tokyo:20260221T180000
-DTEND;TZID=Asia/Tokyo:20260221T210000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
- る屋秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より 
- (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
- 025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋秋葉原店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
 DTSTART;TZID=Asia/Tokyo:20260221T190000
 DTEND;TZID=Asia/Tokyo:20260221T220000
