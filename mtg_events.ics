@@ -2,101 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ ゲームショップ武蔵
-DTSTART;TZID=Asia/Tokyo:20260228T133000
-DTEND;TZID=Asia/Tokyo:20260228T163000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
- ムショップ武蔵\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:ゲームショップ武蔵 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
- ★ミント
-DTSTART;TZID=Asia/Tokyo:20260228T150000
-DTEND;TZID=Asia/Tokyo:20260228T180000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
- ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
- G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
- ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
- )
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
-DTSTART;TZID=Asia/Tokyo:20260228T160000
-DTEND;TZID=Asia/Tokyo:20260228T190000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
- る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
- (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
- 025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ】夕方の部パイオ
- ニア【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260228T160000
-DTEND;TZID=Asia/Tokyo:20260228T190000
-DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
- 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ フルコンプ八王子店
-DTSTART;TZID=Asia/Tokyo:20260228T170000
-DTEND;TZID=Asia/Tokyo:20260228T200000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
- コンプ八王子店\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:フルコンプ八王子店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ TCG専門店Day屋
-DTSTART;TZID=Asia/Tokyo:20260228T170000
-DTEND;TZID=Asia/Tokyo:20260228T200000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
- 門店Day屋\n開催地: 東京都\nMTG-JP イベント情報より (https
- ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
- -01&endDate=2025-06-01#searchBlock)
-LOCATION:TCG専門店Day屋 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ カードボックス池袋店
-DTSTART;TZID=Asia/Tokyo:20260228T170000
-DTEND;TZID=Asia/Tokyo:20260228T200000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
- ドボックス池袋店\n開催地: 東京都\nMTG-JP イベント情報
- より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
- tDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:カードボックス池袋店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:競技 PWS @ アメニティードリーム蒲田店
-DTSTART;TZID=Asia/Tokyo:20260228T180000
-DTEND;TZID=Asia/Tokyo:20260228T210000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
- ニティードリーム蒲田店\n開催地: 東京都\nMTG-JP イベン
- ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
- =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:アメニティードリーム蒲田店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
-DTSTART;TZID=Asia/Tokyo:20260228T190000
-DTEND;TZID=Asia/Tokyo:20260228T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCG専
- 門店CANTRIP\n開催地: 東京都\nMTG-JP イベント情報より (http
- s://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-0
- 4-01&endDate=2025-06-01#searchBlock)
-LOCATION:TCG専門店CANTRIP (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ スポーツカード＆カードゲーム
  ショップMINT吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260301T120000
@@ -118,16 +23,6 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ENNDALGA
  ://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04
  -01&endDate=2025-06-01#searchBlock)
 LOCATION:ENNDALGAMES調布店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ Fellows GAME CAFE & BAL
-DTSTART;TZID=Asia/Tokyo:20260301T150000
-DTEND;TZID=Asia/Tokyo:20260301T180000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: Fellows 
- GAME CAFE & BAL\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:Fellows GAME CAFE & BAL (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ 遊Vic中野店
@@ -1170,6 +1065,16 @@ DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ 晴れる屋秋葉原店
+DTSTART;TZID=Asia/Tokyo:20260321T170000
+DTEND;TZID=Asia/Tokyo:20260321T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
+ る屋秋葉原店\n開催地: 東京都\nMTG-JP イベント情報より 
+ (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
+ 025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:晴れる屋秋葉原店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ アメニティードリーム蒲田店
 DTSTART;TZID=Asia/Tokyo:20260321T180000
 DTEND;TZID=Asia/Tokyo:20260321T210000
@@ -1662,6 +1567,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
 LOCATION:イエローサブマリン新宿店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINTGAMES池袋店
+DTSTART;TZID=Asia/Tokyo:20260403T180000
+DTEND;TZID=Asia/Tokyo:20260403T210000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
+ S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
+ /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
+ 1&endDate=2025-06-01#searchBlock)
+LOCATION:MINTGAMES池袋店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20260403T210000
+DTEND;TZID=Asia/Tokyo:20260404T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20260408T190000
 DTEND;TZID=Asia/Tokyo:20260408T220000
@@ -1670,6 +1595,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
  情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PW
  S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:イエローサブマリン新宿店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ゲームバーグリュック
+DTSTART;TZID=Asia/Tokyo:20260408T193000
+DTEND;TZID=Asia/Tokyo:20260408T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
+ ムバーグリュック\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ゲームバーグリュック (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ カードラッシュ秋葉原0号店TC
@@ -1682,6 +1617,26 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
 LOCATION:カードラッシュ秋葉原0号店TC (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINTGAMES池袋店
+DTSTART;TZID=Asia/Tokyo:20260410T180000
+DTEND;TZID=Asia/Tokyo:20260410T210000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
+ S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
+ /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
+ 1&endDate=2025-06-01#searchBlock)
+LOCATION:MINTGAMES池袋店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:競技 PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20260410T210000
+DTEND;TZID=Asia/Tokyo:20260411T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20260415T190000
 DTEND;TZID=Asia/Tokyo:20260415T220000
@@ -1690,6 +1645,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
  情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PW
  S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:イエローサブマリン新宿店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20260417T210000
+DTEND;TZID=Asia/Tokyo:20260418T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
@@ -1702,6 +1667,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
 LOCATION:イエローサブマリン新宿店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ゲームバーグリュック
+DTSTART;TZID=Asia/Tokyo:20260422T193000
+DTEND;TZID=Asia/Tokyo:20260422T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
+ ムバーグリュック\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ゲームバーグリュック (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
 DTSTART;TZID=Asia/Tokyo:20260429T180000
 DTEND;TZID=Asia/Tokyo:20260429T210000
@@ -1710,5 +1685,119 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
  情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PW
  S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:イエローサブマリン新宿店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ゲームバーグリュック
+DTSTART;TZID=Asia/Tokyo:20260506T193000
+DTEND;TZID=Asia/Tokyo:20260506T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
+ ムバーグリュック\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ゲームバーグリュック (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ カードラッシュ秋葉原0号店TC
+DTSTART;TZID=Asia/Tokyo:20260514T190000
+DTEND;TZID=Asia/Tokyo:20260514T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
+ ドラッシュ秋葉原0号店TC\n開催地: 東京都\nMTG-JP イベン
+ ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
+ =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:カードラッシュ秋葉原0号店TC (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINTGAMES池袋店
+DTSTART;TZID=Asia/Tokyo:20260515T180000
+DTEND;TZID=Asia/Tokyo:20260515T210000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
+ S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
+ /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
+ 1&endDate=2025-06-01#searchBlock)
+LOCATION:MINTGAMES池袋店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:競技 PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20260515T210000
+DTEND;TZID=Asia/Tokyo:20260516T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20260516T150000
+DTEND;TZID=Asia/Tokyo:20260516T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ゲームバーグリュック
+DTSTART;TZID=Asia/Tokyo:20260520T193000
+DTEND;TZID=Asia/Tokyo:20260520T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
+ ムバーグリュック\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ゲームバーグリュック (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINTGAMES池袋店
+DTSTART;TZID=Asia/Tokyo:20260522T180000
+DTEND;TZID=Asia/Tokyo:20260522T210000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
+ S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
+ /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
+ 1&endDate=2025-06-01#searchBlock)
+LOCATION:MINTGAMES池袋店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20260522T210000
+DTEND;TZID=Asia/Tokyo:20260523T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ イエローサブマリン秋葉原本店
+ ★ミント
+DTSTART;TZID=Asia/Tokyo:20260523T150000
+DTEND;TZID=Asia/Tokyo:20260523T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
+ ローサブマリン秋葉原本店★ミント\n開催地: 東京都\nMT
+ G-JP イベント情報より (https://mtg-jp.com/events/search/format/?pr
+ ef=13&freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:イエローサブマリン秋葉原本店★ミント (東京都
+ )
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ MINTGAMES池袋店
+DTSTART;TZID=Asia/Tokyo:20260529T180000
+DTEND;TZID=Asia/Tokyo:20260529T210000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: MINTGAME
+ S池袋店\n開催地: 東京都\nMTG-JP イベント情報より (https:/
+ /mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-0
+ 1&endDate=2025-06-01#searchBlock)
+LOCATION:MINTGAMES池袋店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:競技 PWS @ CARDGYM石神井公園駅前店
+DTSTART;TZID=Asia/Tokyo:20260529T210000
+DTEND;TZID=Asia/Tokyo:20260530T000000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARDGYM
+ 石神井公園駅前店\n開催地: 東京都\nMTG-JP イベント情報
+ より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
+ tDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:CARDGYM石神井公園駅前店 (東京都)
 END:VEVENT
 END:VCALENDAR
