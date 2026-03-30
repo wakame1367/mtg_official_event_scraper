@@ -2,28 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ】【じゃんけん大
- 会あり】 Standard Showdown @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260330T193000
-DTEND;TZID=Asia/Tokyo:20260330T223000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
- る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
- (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
- 025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ】夜の部パイオニ
- ア【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260330T193000
-DTEND;TZID=Asia/Tokyo:20260330T223000
-DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
- 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ 晴れる屋トーナメントセンター
  東京
 DTSTART;TZID=Asia/Tokyo:20260331T190000
@@ -3757,5 +3735,36 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
  ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
  =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:アメニティードリーム蒲田店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ 晴れる屋トーナメントセンター
+ 東京
+DTSTART;TZID=Asia/Tokyo:20260628T140000
+DTEND;TZID=Asia/Tokyo:20260628T170000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
+ る屋トーナメントセンター東京\n開催地: 東京都\nMTG-JP 
+ イベント情報より (https://mtg-jp.com/events/search/format/?pref=13
+ &freeword=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:晴れる屋トーナメントセンター東京 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ LUNLUN
+DTSTART;TZID=Asia/Tokyo:20260628T150000
+DTEND;TZID=Asia/Tokyo:20260628T180000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: LUNLUN\n
+ 開催地: 東京都\nMTG-JP イベント情報より (https://mtg-jp.com/
+ events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&endDate=20
+ 25-06-01#searchBlock)
+LOCATION:LUNLUN (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ ゲームショップ武蔵
+DTSTART;TZID=Asia/Tokyo:20260628T173000
+DTEND;TZID=Asia/Tokyo:20260628T203000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
+ ムショップ武蔵\n開催地: 東京都\nMTG-JP イベント情報よ
+ り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
+ te=2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:ゲームショップ武蔵 (東京都)
 END:VEVENT
 END:VCALENDAR
