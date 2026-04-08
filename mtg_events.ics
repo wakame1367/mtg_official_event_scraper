@@ -2,90 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ アメニティードリーム秋葉原店
-DTSTART;TZID=Asia/Tokyo:20260408T190000
-DTEND;TZID=Asia/Tokyo:20260408T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: アメ
- ニティードリーム秋葉原店\n開催地: 東京都\nMTG-JP イベ
- ント情報より (https://mtg-jp.com/events/search/format/?pref=13&freew
- ord=PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:アメニティードリーム秋葉原店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ CARD WINGS 秋葉原駅前店
-DTSTART;TZID=Asia/Tokyo:20260408T190000
-DTEND;TZID=Asia/Tokyo:20260408T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: CARD WIN
- GS 秋葉原駅前店\n開催地: 東京都\nMTG-JP イベント情報よ
- り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
- te=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:CARD WINGS 秋葉原駅前店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ イエローサブマリン新宿店
-DTSTART;TZID=Asia/Tokyo:20260408T190000
-DTEND;TZID=Asia/Tokyo:20260408T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: イエ
- ローサブマリン新宿店\n開催地: 東京都\nMTG-JP イベント
- 情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PW
- S&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:イエローサブマリン新宿店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:競技 PWS @ Card Pot
-DTSTART;TZID=Asia/Tokyo:20260408T190000
-DTEND;TZID=Asia/Tokyo:20260408T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: Card Pot
- \n開催地: 東京都\nMTG-JP イベント情報より (https://mtg-jp.co
- m/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01&endDate=
- 2025-06-01#searchBlock)
-LOCATION:Card Pot (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ ゲームバーグリュック
-DTSTART;TZID=Asia/Tokyo:20260408T193000
-DTEND;TZID=Asia/Tokyo:20260408T223000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
- ムバーグリュック\n開催地: 東京都\nMTG-JP イベント情報
- より (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&star
- tDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:ゲームバーグリュック (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
-DTSTART;TZID=Asia/Tokyo:20260408T193000
-DTEND;TZID=Asia/Tokyo:20260408T223000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
- る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
- (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
- 025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ】夜の部パイオニ
- ア【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260408T193000
-DTEND;TZID=Asia/Tokyo:20260408T223000
-DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
- 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:夜の部ミドルスクール【3回戦】 @ 晴れる屋吉祥
- 寺店
-DTSTART;TZID=Asia/Tokyo:20260408T193000
-DTEND;TZID=Asia/Tokyo:20260408T223000
-DESCRIPTION:フォーマット: その他\n開催店舗: 晴れる屋吉
- 祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (https://
- mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
- &endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ カードラッシュ秋葉原0号店TC
 DTSTART;TZID=Asia/Tokyo:20260409T190000
 DTEND;TZID=Asia/Tokyo:20260409T220000
@@ -96,9 +12,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
 LOCATION:カードラッシュ秋葉原0号店TC (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260409T193000
 DTEND;TZID=Asia/Tokyo:20260409T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -205,18 +121,6 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Night Magic 【参加でPWイベント限定プロモ＆2
- 勝以上でプロモパック進呈！】【FNM】パイオニア【じ
- ゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260410T193000
-DTEND;TZID=Asia/Tokyo:20260410T223000
-DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
- 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:【参加でPWイベント限定プロモ】プラスワンで遊
  ぼう！『ファウンデーションズ・プラスワン』交流会
  【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
@@ -226,6 +130,18 @@ DESCRIPTION:フォーマット: その他\n開催店舗: 晴れる屋吉
  祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (https://
  mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
  &endDate=2025-06-01#searchBlock)
+LOCATION:晴れる屋吉祥寺店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Magic 【参加でPWイベント限定プロモ＆2
+ 勝以上でプロモパック進呈！】【FNM】パイオニア【じ
+ ゃんけん大会あり】 @ 晴れる屋吉祥寺店
+DTSTART;TZID=Asia/Tokyo:20260410T193000
+DTEND;TZID=Asia/Tokyo:20260410T223000
+DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
+ 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
+ tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
+ -04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
@@ -252,18 +168,6 @@ LOCATION:イエローサブマリン池袋ゲームショップ (東京都
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【カジュアルイベント】プロモ版《大召喚士、ユ
- ウナ/Yuna\, Grand Summoner》じゃんけん争奪パイオニア【3回
- 戦】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260411T130000
-DTEND;TZID=Asia/Tokyo:20260411T160000
-DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
- 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【カジュアルイベント】プロモ版《大召喚士、ユ
  ウナ/Yuna\, Grand Summoner》じゃんけん争奪スタンダード【3
  回戦】 @ 晴れる屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260411T130000
@@ -272,6 +176,18 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
  る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
  025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:晴れる屋吉祥寺店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【カジュアルイベント】プロモ版《大召喚士、ユ
+ ウナ/Yuna\, Grand Summoner》じゃんけん争奪パイオニア【3回
+ 戦】 @ 晴れる屋吉祥寺店
+DTSTART;TZID=Asia/Tokyo:20260411T130000
+DTEND;TZID=Asia/Tokyo:20260411T160000
+DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
+ 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
+ tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
+ -04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
@@ -589,9 +505,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 東京MT
 LOCATION:東京MTG (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260413T193000
 DTEND;TZID=Asia/Tokyo:20260413T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -632,9 +548,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
 LOCATION:秋葉原あずまや (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260414T193000
 DTEND;TZID=Asia/Tokyo:20260414T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -705,9 +621,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: Card Pot
 LOCATION:Card Pot (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260415T193000
 DTEND;TZID=Asia/Tokyo:20260415T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -739,9 +655,9 @@ DESCRIPTION:フォーマット: その他\n開催店舗: 晴れる屋吉
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260416T193000
 DTEND;TZID=Asia/Tokyo:20260416T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -1017,9 +933,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 東京MT
 LOCATION:東京MTG (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260420T193000
 DTEND;TZID=Asia/Tokyo:20260420T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -1040,9 +956,9 @@ DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260421T193000
 DTEND;TZID=Asia/Tokyo:20260421T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -1123,9 +1039,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: ゲー
 LOCATION:ゲームバーグリュック (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260422T193000
 DTEND;TZID=Asia/Tokyo:20260422T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -1177,9 +1093,9 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: カー
 LOCATION:カードマウンテン (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260423T193000
 DTEND;TZID=Asia/Tokyo:20260423T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -1489,9 +1405,9 @@ DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260427T193000
 DTEND;TZID=Asia/Tokyo:20260427T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
@@ -1512,18 +1428,6 @@ DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
-DTSTART;TZID=Asia/Tokyo:20260428T193000
-DTEND;TZID=Asia/Tokyo:20260428T223000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
- る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
- (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
- 025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:【参加でPWイベント限定プロモ】夜の部パイオニ
  ア【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260428T193000
@@ -1532,6 +1436,18 @@ DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
  屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
  tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
  -04-01&endDate=2025-06-01#searchBlock)
+LOCATION:晴れる屋吉祥寺店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
+DTSTART;TZID=Asia/Tokyo:20260428T193000
+DTEND;TZID=Asia/Tokyo:20260428T223000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
+ る屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より 
+ (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2
+ 025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
@@ -1655,9 +1571,9 @@ DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
 LOCATION:晴れる屋吉祥寺店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ！】スタンダード
- ショーダウン【じゃんけん大会あり】 @ 晴れる屋吉祥
- 寺店
+SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
+ ック争奪スタンダード【じゃんけん大会あり】 @ 晴れ
+ る屋吉祥寺店
 DTSTART;TZID=Asia/Tokyo:20260430T193000
 DTEND;TZID=Asia/Tokyo:20260430T223000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: 晴れ
