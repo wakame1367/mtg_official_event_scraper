@@ -2,52 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//MTG-JP Events Scrapy//manus.ai//
 BEGIN:VEVENT
-SUMMARY:カジュアル PWS @ ブックアニマル蒲田梅屋敷店
-DTSTART;TZID=Asia/Tokyo:20260731T190000
-DTEND;TZID=Asia/Tokyo:20260731T220000
-DESCRIPTION:フォーマット: スタンダード\n開催店舗: ブッ
- クアニマル蒲田梅屋敷店\n開催地: 東京都\nMTG-JP イベン
- ト情報より (https://mtg-jp.com/events/search/format/?pref=13&freeword
- =PWS&startDate=2025-04-01&endDate=2025-06-01#searchBlock)
-LOCATION:ブックアニマル蒲田梅屋敷店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Night Magic 【参加でPWイベント限定プロモ＆2
- 勝以上でプロモパック進呈！】【FNM】パイオニア【じ
- ゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260731T193000
-DTEND;TZID=Asia/Tokyo:20260731T223000
-DESCRIPTION:フォーマット: パイオニア\n開催店舗: 晴れる
- 屋吉祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (ht
- tps://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025
- -04-01&endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ】プラスワンで遊
- ぼう！『ファウンデーションズ・プラスワン』交流会
- 【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260731T193000
-DTEND;TZID=Asia/Tokyo:20260731T223000
-DESCRIPTION:フォーマット: その他\n開催店舗: 晴れる屋吉
- 祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (https://
- mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
- &endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:【参加でPWイベント限定プロモ】プラスワンで遊
- ぼう！『ファウンデーションズ・プラスワン』交流会
- 【じゃんけん大会あり】 @ 晴れる屋吉祥寺店
-DTSTART;TZID=Asia/Tokyo:20260731T193000
-DTEND;TZID=Asia/Tokyo:20260731T223000
-DESCRIPTION:フォーマット: その他\n開催店舗: 晴れる屋吉
- 祥寺店\n開催地: 東京都\nMTG-JP イベント情報より (https://
- mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
- &endDate=2025-06-01#searchBlock)
-LOCATION:晴れる屋吉祥寺店 (東京都)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ まんぞく屋
 DTSTART;TZID=Asia/Tokyo:20260801T120000
 DTEND;TZID=Asia/Tokyo:20260801T150000
@@ -481,6 +435,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
  り (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDa
  te=2025-04-01&endDate=2025-06-01#searchBlock)
 LOCATION:フルコンプ八王子店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
+DTSTART;TZID=Asia/Tokyo:20260808T170000
+DTEND;TZID=Asia/Tokyo:20260808T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCGカ
+ フェ＆バー EVO\n開催地: 東京都\nMTG-JP イベント情報より
+  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=
+ 2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TCGカフェ＆バー EVO (東京都)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【参加でPWイベント限定プロモ】夜の部 プロモパ
@@ -1777,6 +1741,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
 LOCATION:秋葉原チェルモ (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
+DTSTART;TZID=Asia/Tokyo:20260822T170000
+DTEND;TZID=Asia/Tokyo:20260822T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCGカ
+ フェ＆バー EVO\n開催地: 東京都\nMTG-JP イベント情報より
+  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=
+ 2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TCGカフェ＆バー EVO (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ アメニティードリーム蒲田店
 DTSTART;TZID=Asia/Tokyo:20260822T180000
 DTEND;TZID=Asia/Tokyo:20260822T210000
@@ -2641,6 +2615,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
 LOCATION:秋葉原チェルモ (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
+DTSTART;TZID=Asia/Tokyo:20260905T170000
+DTEND;TZID=Asia/Tokyo:20260905T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCGカ
+ フェ＆バー EVO\n開催地: 東京都\nMTG-JP イベント情報より
+  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=
+ 2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TCGカフェ＆バー EVO (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TCG専門店CANTRIP
 DTSTART;TZID=Asia/Tokyo:20260905T190000
 DTEND;TZID=Asia/Tokyo:20260905T220000
@@ -3002,6 +2986,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
 LOCATION:秋葉原チェルモ (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
+DTSTART;TZID=Asia/Tokyo:20260912T170000
+DTEND;TZID=Asia/Tokyo:20260912T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCGカ
+ フェ＆バー EVO\n開催地: 東京都\nMTG-JP イベント情報より
+  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=
+ 2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TCGカフェ＆バー EVO (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ アメニティードリーム蒲田店
 DTSTART;TZID=Asia/Tokyo:20260912T180000
 DTEND;TZID=Asia/Tokyo:20260912T210000
@@ -3263,6 +3257,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: 秋葉
 LOCATION:秋葉原チェルモ (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
+DTSTART;TZID=Asia/Tokyo:20260919T170000
+DTEND;TZID=Asia/Tokyo:20260919T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCGカ
+ フェ＆バー EVO\n開催地: 東京都\nMTG-JP イベント情報より
+  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=
+ 2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TCGカフェ＆バー EVO (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ アメニティードリーム蒲田店
 DTSTART;TZID=Asia/Tokyo:20260919T180000
 DTEND;TZID=Asia/Tokyo:20260919T210000
@@ -3434,6 +3438,16 @@ DESCRIPTION:フォーマット: スタンダード\n開催店舗: フル
 LOCATION:フルコンプ八王子店 (東京都)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TCGカフェ＆バー EVO
+DTSTART;TZID=Asia/Tokyo:20260926T170000
+DTEND;TZID=Asia/Tokyo:20260926T200000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TCGカ
+ フェ＆バー EVO\n開催地: 東京都\nMTG-JP イベント情報より
+  (https://mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=
+ 2025-04-01&endDate=2025-06-01#searchBlock)
+LOCATION:TCGカフェ＆バー EVO (東京都)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:競技 PWS @ アメニティードリーム蒲田店
 DTSTART;TZID=Asia/Tokyo:20260926T180000
 DTEND;TZID=Asia/Tokyo:20260926T210000
@@ -3527,6 +3541,16 @@ BEGIN:VEVENT
 SUMMARY:カジュアル PWS @ TSUTAYA福生店
 DTSTART;TZID=Asia/Tokyo:20261022T190000
 DTEND;TZID=Asia/Tokyo:20261022T220000
+DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYA
+ 福生店\n開催地: 東京都\nMTG-JP イベント情報より (https://
+ mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
+ &endDate=2025-06-01#searchBlock)
+LOCATION:TSUTAYA福生店 (東京都)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:カジュアル PWS @ TSUTAYA福生店
+DTSTART;TZID=Asia/Tokyo:20261029T190000
+DTEND;TZID=Asia/Tokyo:20261029T220000
 DESCRIPTION:フォーマット: スタンダード\n開催店舗: TSUTAYA
  福生店\n開催地: 東京都\nMTG-JP イベント情報より (https://
  mtg-jp.com/events/search/format/?pref=13&freeword=PWS&startDate=2025-04-01
